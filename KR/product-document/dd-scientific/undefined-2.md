@@ -28,7 +28,7 @@
 
 {% tabs %}
 {% tab title="Multi gas" %}
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Single gas" %}
@@ -54,7 +54,7 @@
 
 ## [주차장(Car Parks)](https://www.ddscientific.com/uploads/5/7/1/3/57136893/car\_parks\_n\_vent.pdf)
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## [주거(Residential)](https://www.ddscientific.com/uploads/5/7/1/3/57136893/residential.pdf)
 
@@ -64,8 +64,6 @@
 
 {% tabs %}
 {% tab title="GS+4 SERIES" %}
-
-
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
@@ -85,4 +83,3 @@
 ## [다이빙(Diving)](https://www.ddscientific.com/uploads/5/7/1/3/57136893/diving.pdf)
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt="" width="563"><figcaption></figcaption></figure>
-
