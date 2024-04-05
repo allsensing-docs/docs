@@ -46,7 +46,7 @@
       * [Digital filter](product-document/gss/sprintir/undefined-1/digital-filter.md)
       * [UART Command](product-document/gss/sprintir/undefined-1/uart-command.md)
 * [EC-Sens](product-document/ec-sens/README.md)
-  * [가스 센서](product-document/ec-sens/tb01.md)
+  * [제품 종류 및 이론 ](product-document/ec-sens/tb01.md)
   * [가스 센서 모듈](product-document/ec-sens/tb02.md)
   * [TB600B(C),TB200B](product-document/ec-sens/tb600.md)
   * [TB420](product-document/ec-sens/tb420.md)
