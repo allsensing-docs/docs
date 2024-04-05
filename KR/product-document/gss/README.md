@@ -28,7 +28,7 @@ description: GSS CO2센서 제품에 대하여  사용 방법, 경험, 지식, �
 <<td>디바이스 연결</td>
 <td>통신프로토콜</td>
 <td><a href="cozirlp3.md">cozirlp3.md</a></td>
-<td><a href="image/lp.webp">logo.webp</a></td>
+<td><a href="image/lp3.webp">logo.webp</a></td>
 <td></td>
 <td><a href="cozirlp3.md">cozirlp3.md</a></td></tr>
 
