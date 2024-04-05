@@ -4,13 +4,23 @@ description: GSS CO2센서 제품에 대하여  사용 방법, 경험, 지식, �
 
 # GSS
 
-
-<table data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
+<table data-column-title-hidden data-view="cards">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th data-hidden data-type="content-ref"></th>
+<th data-hidden data-card-cover data-type="files"></th>
+<th data-hidden data-type="content-ref"></th>
+<th data-hidden data-card-target data-type="content-ref"></th>
+</tr>
+</thead>
 <tbody>
 
 <tr><td><strong>GSS 설명</strong></td>
-<td>---</td>
-<td>---</td>
+<td>센서 종류</td>
+<td>확장보드</td>
 <td><a href="intro.md">intro.md</a></td>
 <td><a href="image/logo.webp">logo.webp</a></td>
 <td></td>
@@ -25,7 +35,7 @@ description: GSS CO2센서 제품에 대하여  사용 방법, 경험, 지식, �
 <td><a href="cozirlp2.md">cozirlp2.md</a></td></tr>
 
 <tr><td><strong>CozIR-LP3</strong></td>
-<<td>디바이스 연결</td>
+<td>디바이스 연결</td>
 <td>통신프로토콜</td>
 <td><a href="cozirlp3.md">cozirlp3.md</a></td>
 <td><a href="image/lp3.webp">logo.webp</a></td>
@@ -56,8 +66,4 @@ description: GSS CO2센서 제품에 대하여  사용 방법, 경험, 지식, �
 <td></td>
 <td><a href="sprintir.md">sprintir.md</a></td></tr>
 
-
-
-
 </tbody></table>
-
