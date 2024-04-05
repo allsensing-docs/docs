@@ -10,7 +10,7 @@ description: NevadaNano 제품에 대하여  사용 방법, 경험, 지식, 문�
 <td>Nevadanano</td>
 <td></td>
 <td><a href="nv0.md">nv0.md</a></td>
-<td></td>
+<td><a href="image/title.webp">title.webp</a></td>
 <td></td>
 <td><a href="nv0.md">nv0.md</a></td></tr>
 
@@ -18,7 +18,7 @@ description: NevadaNano 제품에 대하여  사용 방법, 경험, 지식, 문�
 <td>아두이노 연동</td>
 <td></td>
 <td><a href="nv1.md">nv1.md</a></td>
-<td></td>
+<td><a href="image/title.webp">title.webp</a></td>
 <td></td>
 <td><a href="nv1.md">nv1.md</a></td></tr>
 
@@ -26,7 +26,7 @@ description: NevadaNano 제품에 대하여  사용 방법, 경험, 지식, 문�
 <td>상세 설명</td>
 <td></td>
 <td><a href="nv2.md">nv2.md</a></td>
-<td></td>
+<td><a href="image/title.webp">title.webp</a></td>
 <td></td>
 <td><a href="nv2.md">nv2.md</a></td></tr>
 
@@ -34,7 +34,7 @@ description: NevadaNano 제품에 대하여  사용 방법, 경험, 지식, 문�
 <td>3.0, 4.0, 5.0 </td>
 <td>디지털, 아날로그</td>
 <td><a href="nv3.md">nv3.md</a></td>
-<td></td>
+<td><a href="image/title.webp">title.webp</a></td>
 <td></td>
 <td><a href="nv3.md">nv3.md</a></td></tr>
 
