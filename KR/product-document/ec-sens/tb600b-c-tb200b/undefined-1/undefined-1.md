@@ -5,19 +5,15 @@
 * 초기 Mode default 설정: Passive Mode
 * 전원 off 후에도 변경된 통신모드로 저장됨
 
-<table><thead><tr><th width="155">Mode</th><th>Command (HEX)</th><th width="200">Description</th><th>Response</th></tr></thead><tbody><tr><td>Passive(Q&#x26;A)</td><td>FF 01 78 40 00 00 00 00 47</td><td>센서 값 요청시에만 데이터 값 전송</td><td> </td></tr><tr><td>Active</td><td>FF 01 78 41 00 00 00 00 46</td><td>연속적으로 데이터 값을 전송</td><td> </td></tr><tr><td>Sleep 들어가기</td><td>AF 53 6C 65 65 70</td><td>Sleep mode 들어감</td><td>4F 4B</td></tr><tr><td>Sleep 나오기</td><td>AF 45 78 69 74</td><td>Sleep mode 나옴</td><td>4F 4B</td></tr></tbody></table>
-
-
+<table><thead><tr><th width="155">Mode</th><th>Command (HEX)</th><th width="200">Description</th><th>Response</th></tr></thead><tbody><tr><td>Passive(Q&#x26;A)</td><td>FF 01 78 40 00 00 00 00 47</td><td>센서 값 요청시에만 데이터 값 전송</td><td></td></tr><tr><td>Active</td><td>FF 01 78 41 00 00 00 00 46</td><td>연속적으로 데이터 값을 전송</td><td></td></tr><tr><td>Sleep 들어가기</td><td>AF 53 6C 65 65 70</td><td>Sleep mode 들어감</td><td>4F 4B</td></tr><tr><td>Sleep 나오기</td><td>AF 45 78 69 74</td><td>Sleep mode 나옴</td><td>4F 4B</td></tr></tbody></table>
 
 Sleep Mode 나올 경우, 모듈 정상동작에 5초 소요 (5초 동안 data x)
-
-
 
 ## 가스 센서 값 읽기
 
 * 가스 센서 값 읽기 응답:
 
-<figure><img src="../../../../../.gitbook/assets/gas_read_description.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/gas_read_description.PNG" alt=""><figcaption></figcaption></figure>
 
 ## 가스 센서 값 + 온습도 값 읽기
 
@@ -27,15 +23,13 @@ Sleep Mode 나올 경우, 모듈 정상동작에 5초 소요 (5초 동안 data x
 
 가스 센서 값 + 온습도 값 읽기 응답:
 
-<figure><img src="../../../../../.gitbook/assets/gas_and_temp_humi_read.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/gas_and_temp_humi_read.PNG" alt=""><figcaption></figcaption></figure>
 
 온도 습도 예제:
 
 Ex) 0B 24 : 0x0B(11\*256=2816) + 0x24(36) = 2852 / 100 => 28.52 ℃ (온도)
 
-&#x20;   \- 06 DB : 0x06(6\*256=1536) + 0xDB(219) = 1755 / 100 => 17.55 %RH (습도)
-
-
+\- 06 DB : 0x06(6\*256=1536) + 0xDB(219) = 1755 / 100 => 17.55 %RH (습도)
 
 {% tabs %}
 {% tab title="Passive mode에서 센서 값 읽기" %}
@@ -92,7 +86,7 @@ void loop()
 
 시리얼 모니터
 
-<figure><img src="../../../../../.gitbook/assets/tb600_tb200_passive_mode_serial_monitor.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/tb600_tb200_passive_mode_serial_monitor.PNG" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Active mode에서 센서 값 읽기" %}
@@ -146,23 +140,6 @@ void loop()
 
 시리얼 모니터
 
-<figure><img src="../../../../../.gitbook/assets/tb600_tb200_active_mode_serial.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/tb600_tb200_active_mode_serial.PNG" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -4,9 +4,7 @@
 
 Digital Type
 
-<figure><img src="../../../../.gitbook/assets/TB600_TB200_main_pic.PNG" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../../../.gitbook/assets/TB600_TB200_main_pic.PNG" alt=""><figcaption></figcaption></figure>
 
 ## 특징
 
@@ -33,23 +31,18 @@ Digital Type
 * 난방, 환기 및 공기 조절
 * 누출 감지
 
-
-
 ## 제품 크기 및 핀 특성
 
 (단위(mm)
 
-<figure><img src="../../../../.gitbook/assets/TB600_TB200_pin_demension.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/TB600_TB200_pin_demension.PNG" alt=""><figcaption></figcaption></figure>
 
 _TB200/TB600 sensor 모듈을 위한 연결 Cable_
 
-<figure><img src="../../../../.gitbook/assets/tb200_600_cable.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tb200_600_cable.jpg" alt=""><figcaption></figcaption></figure>
 
 ## _측정 가스 종류 및 측정 범위_
 
-<figure><img src="../../../../.gitbook/assets/tb600_tb200_gas_range.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tb600_tb200_gas_range.PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/tb200_gas_range.PNG" alt=""><figcaption></figcaption></figure>
-
-
-
+<figure><img src="../../../.gitbook/assets/tb200_gas_range.PNG" alt=""><figcaption></figcaption></figure>

@@ -44,13 +44,12 @@ description: High Speed
 
 ## 디바이스 연결 방법
 
-{% content-ref url="sprintir-w/undefined.md" %}
-[undefined.md](sprintir-w/undefined.md)
+{% content-ref url="sprintir/undefined.md" %}
+[undefined.md](sprintir/undefined.md)
 {% endcontent-ref %}
 
 ## 통신 프로토콜
 
-{% content-ref url="sprintir-w/undefined-1/" %}
-[undefined-1](sprintir-w/undefined-1/)
+{% content-ref url="sprintir/undefined-1/" %}
+[undefined-1](sprintir/undefined-1/)
 {% endcontent-ref %}
-

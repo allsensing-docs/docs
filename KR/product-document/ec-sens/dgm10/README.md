@@ -4,12 +4,10 @@ description: (Double- Gas- Module)
 
 # DGM10
 
-<figure><img src="../../../../.gitbook/assets/DGM10_mainpic.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DGM10_mainpic.PNG" alt=""><figcaption></figcaption></figure>
 
-* Digital Type&#x20;
+* Digital Type
 * 전기 화학식 더블 가스센서 모듈
-
-
 
 ## 특징
 
@@ -27,8 +25,6 @@ description: (Double- Gas- Module)
 * RoHS 승인
 * 소형 26 x 26mm
 
-&#x20;
-
 ## 애플리케이션
 
 * 산업 안전 가스 측정
@@ -39,31 +35,18 @@ description: (Double- Gas- Module)
 * 의료 및 건강 관리
 * 전문 가스 측정 기기
 
-
-
 ## 사양
 
-<figure><img src="../../../../.gitbook/assets/DGM10_spec.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DGM10_spec.PNG" alt=""><figcaption></figcaption></figure>
 
 ## 제품 크기 및 핀 특성
 
+<figure><img src="../../../.gitbook/assets/DGM10_pin_size.PNG" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../../../../.gitbook/assets/DGM10_pin_size.PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../../.gitbook/assets/DGM10_cable.PNG" alt=""><figcaption><p>&#x3C;10P-10CM-1.00 cable></p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/DGM10_cable.PNG" alt=""><figcaption><p>&#x3C;10P-10CM-1.00 cable></p></figcaption></figure>
 
 ## 측정 가스 종류 및 측정 범위
 
-<figure><img src="../../../../.gitbook/assets/DGM10_gas_type_one.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DGM10_gas_type_one.PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/DGM10_gas_type_two.PNG" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
+<figure><img src="../../../.gitbook/assets/DGM10_gas_type_two.PNG" alt=""><figcaption></figcaption></figure>

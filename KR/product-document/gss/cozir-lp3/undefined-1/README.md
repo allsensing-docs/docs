@@ -10,10 +10,8 @@
 |       Stop Bits       |   1  |        |
 | Hardware Flow Control | None |        |
 
-
-
-{% content-ref url="../../sprintir-w/undefined-1/co2.md" %}
-[co2.md](../../sprintir-w/undefined-1/co2.md)
+{% content-ref url="../../sprintir/undefined-1/co2.md" %}
+[co2.md](../../sprintir/undefined-1/co2.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../cozir-blink/undefined-1/uart-i2c-co2.md" %}
@@ -27,10 +25,3 @@
 {% content-ref url="../../cozir-blink/undefined-1/uart-command.md" %}
 [uart-command.md](../../cozir-blink/undefined-1/uart-command.md)
 {% endcontent-ref %}
-
-
-
-
-
-
-
