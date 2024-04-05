@@ -10,11 +10,8 @@ GSS는 광범위한 고체 NDIR CO₂ 가스 센서를 설계, 개발 및 제조
 
 > [GSS 홈페이지](https://www.gassensing.co.uk/)
 
-**설명**
-+  GSS는 디지털 출력인 UART가 공통적으로 포함되어 있고 0℃\~50℃의 온도 범위에서 측정할 수 있는 CO₂ 센서입니다.
++ GSS는 디지털 출력인 UART가 공통적으로 포함되어 있고 0℃\~50℃의 온도 범위에서 측정할 수 있는 CO₂ 센서입니다.
 + GSS는 각 단계에 대해 새로운 하드웨어 모듈을 생성할 필요 없이 Arduino, PCB, Sensor만 갖추고 있으시다면 신속한 CO₂ 측정이 가능합니다.
-
-**특징**
 
 + CozIR는 3.3mW의 소비 전력을 갖춘 저전력 CO₂ 센서입니다.
 + SprintIR은 초 당 20회를 판독하는 고속 측정 CO₂ 센서입니다.
@@ -22,28 +19,28 @@ GSS는 광범위한 고체 NDIR CO₂ 가스 센서를 설계, 개발 및 제조
 
 ### 저전력 CO₂ 센서
 
-{% content-ref url="cozir_blink.md" %}
+{% content-ref url="cozirblink.md" %}
 [cozirblink.md](cozirblink.md)
 {% endcontent-ref %}
 
-{% content-ref url="cozir-lp3.md" %}
-[cozir-lp3.md](cozir-lp3.md)
+{% content-ref url="cozirlp3.md" %}
+[cozirlp3.md](cozirlp3.md)
 {% endcontent-ref %}
 
 {% content-ref url="cozir-blink.md" %}
-[cozir-blink.md](cozir-blink.md)
+[cozirblink.md](cozirblink.md)
 {% endcontent-ref %}
 
 ### 고농도 CO₂ 센서
 
-{% content-ref url="co-explorir.md" %}
-[co-explorir.md](co-explorir.md)
+{% content-ref url="explorir.md" %}
+[explorir.md](explorir.md)
 {% endcontent-ref %}
 
 ### 고속 측정 CO₂ 센서
 
-{% content-ref url="sprintir-w.md" %}
-[sprintir-w.md](sprintir-w.md)
+{% content-ref url="sprintir.md" %}
+[sprintir.md](sprintir.md)
 {% endcontent-ref %}
 
 ### 기타
@@ -52,5 +49,5 @@ GSS는 광범위한 고체 NDIR CO₂ 가스 센서를 설계, 개발 및 제조
 
 <figure><img src="image/Allsensingpcb.png" alt="Allsensing pcb" width="363"><figcaption>올센싱 CO2 확장 pcb</figcaption></figure>
 
-* 올센싱 PCB 사용시 GSS 제품 연결이 용이합니다.
-* 디바이스 연결 방법은 올센싱 PCB 사용 기준입니다.
++ 올센싱 PCB 사용시 GSS 제품 연결이 용이합니다.
++ 디바이스 연결 방법은 올센싱 PCB 사용 기준입니다.
