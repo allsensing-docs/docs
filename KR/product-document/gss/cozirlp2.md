@@ -6,45 +6,45 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 
 ![](../../.gitbook/assets/cozir\_blink\_main\_pic.jpg)
 
-## 특징
+## 1.특징
 
-    * 최첨단 Solid-State LED 광학 기술 이용한 초 저전력 NDIR CO2 센서
-    * 디지털(UART) 및 I2C 출력
-    * 높은 CO2 측정 정확도 유지하면서 전력 소비 줄일 수 있음
-    * 내장형 자동 영점 조정
-    * 30 ppm(일반) 정확도
+* 최첨단 Solid-State LED 광학 기술 이용한 초 저전력 NDIR CO2 센서
+* 디지털(UART) 및 I2C 출력
+* 높은 CO2 측정 정확도 유지하면서 전력 소비 줄일 수 있음
+* 내장형 자동 영점 조정
+* 30 ppm(일반) 정확도
 
-## 애플리케이션
+## 2.애플리케이션
 
-    * 난방, 환기 및 공기 조절(HVAC)
-    * 건물 관리 시스템(BMS)
-    * 환기 조절 시스템(DCV)
-    * 차량 내 공기 질
-    * 무선 장비를 이용한 IoT 및 Smart Technology
-    * 실내 공기 질(IAQ)
-    * 계측
-    * 농업
-    * 항공우주
+* 난방, 환기 및 공기 조절(HVAC)
+* 건물 관리 시스템(BMS)
+* 환기 조절 시스템(DCV)
+* 차량 내 공기 질
+* 무선 장비를 이용한 IoT 및 Smart Technology
+* 실내 공기 질(IAQ)
+* 계측
+* 농업
+* 항공우주
 
-## 사양
+## 3.사양
 
-    | 항목 | 내용 |
-    |------|------|
-    | 측정 범위 | CozIR-LP2-2000: 0-2000ppm<br>CozIR-LP2-5000: 0-5000ppm<br>CozIR-LP2-1: 0-10,000ppm (1%) |
-    | 센서 내부 | Solid-State, 가열된 필라멘트 없음 |
-    | 통신 방식 | UART 또는 I²C |
-    | 전원 전압 | 3.25-5.5V |
-    | 소모 전류 | 측정 모드: 15mA<br>절전 모드: 0.01mA |
-    | 응답 시간 | 30.5ms |
-    | 센서 치수 및 무게 | L x W x H(31mm x 19.5mm x 8.7mm), Weight(2.5g) |
-    | 센서 내구성 | 진동 및 충격에 강하고 비가열성 |
-    | 센서 교정 | 자동 영점교정 기능 내장 |
-    | 센서 수명 | 15년 |
-    | 헤더 핀 크기 | 1.27mm |
+| 항목 | 내용 |
+|------|------|
+| 측정 범위 | CozIR-LP2-2000: 0-2000ppm<br>CozIR-LP2-5000: 0-5000ppm<br>CozIR-LP2-1: 0-10,000ppm (1%) |
+| 센서 내부 | Solid-State, 가열된 필라멘트 없음 |
+| 통신 방식 | UART 또는 I²C |
+| 전원 전압 | 3.25-5.5V |
+| 소모 전류 | 측정 모드: 15mA<br>절전 모드: 0.01mA |
+| 응답 시간 | 30.5ms |
+| 센서 치수 및 무게 | L x W x H(31mm x 19.5mm x 8.7mm), Weight(2.5g) |
+| 센서 내구성 | 진동 및 충격에 강하고 비가열성 |
+| 센서 교정 | 자동 영점교정 기능 내장 |
+| 센서 수명 | 15년 |
+| 헤더 핀 크기 | 1.27mm |
 
-## 제품 크기 및 핀 특성
+## 4.제품 크기 및 핀 특성
 
-<figure><img src="../../.gitbook/assets/cozirlp2_pin.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_pin.png" alt="" width="300"><figcaption></figcaption></figure>
 
 | PIN | Function |
 |-----|----------|
@@ -58,21 +58,10 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 
 <figure><img src="../../.gitbook/assets/CozIR-Blink_size.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-## 디바이스 연결 방법&#x20;
-
-{% content-ref url="co/undefined.md" %}
-[undefined.md](co/undefined.md)
-{% endcontent-ref %}
-
-## 통신 프로토콜
-
-{% content-ref url="undefined/" %}
-[undefined](undefined/)
-{% endcontent-ref %}
 
 <!-- 중간점 -->
 
-## 디바이스 연결 방법
+## 5.디바이스 연결 방법
 
 ### Connection DIAGRAM (UART)
 
@@ -81,6 +70,8 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 ### Connection DIAGRAM (I2C)
 
 <figure><img src="../../.gitbook/assets/CozIR-Blink_connetion_diagram_i2c.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+### 연결 예시
 
 {% tabs %}
 {% tab title="Arduino Uno Uart" %}
@@ -154,9 +145,11 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 
 <!------------------------------------------------- 중간점 ------------------------------------------>
 
-## 통신 프로토콜(UART 설정)
+## 6.통신 프로토콜(UART 설정)
 
 ### UART 설정
+
++ 통신 환경
 
 |       PARAMETER       |  TYP |  UNIT  |
 | :-------------------: | :--: | :----: |
@@ -165,6 +158,8 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 |         Parity        | None |        |
 |       Stop Bits       |   1  |        |
 | Hardware Flow Control | None |        |
+
++  통신 명령어
 
 | Command | Description | Response |
 |---------|-------------|----------|
@@ -186,7 +181,7 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 
 <!------------------------------------------------- 중간점 ------------------------------------------>
 
-## 모드 설정 및 CO2 값 읽기
+## 7.모드 설정 및 CO2 값 읽기
 
 * COMMAND 모드: COMMAND를 기다리는 상태, 측정 X
 
@@ -200,9 +195,7 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 | Streaming | K 1     | 연속적으로 값 측정   | K 00001  |
 | Polling   | K 2     | 센서 값 요청 시에만 응답 | K 00002  |
 
-### 소스 코드
-
-* Streaming mode에서 CO2 값 읽기
+### Streaming mode에서 CO2 값 읽기
 
 ```cpp
 #include <SoftwareSerial.h>
@@ -245,11 +238,9 @@ void loop()
 }
 ```
 
-### 시리얼 모니터
-
 <figure><img src="../../.gitbook/assets/cozirlp2_serial_streamiing.png" alt="" width="563"><figcaption></figcaption></figure>
 
-* Polling mode에서 CO2값 읽기
+### Polling mode에서 CO2값 읽기
 
 ```cpp
 #include <SoftwareSerial.h>
@@ -291,7 +282,7 @@ void loop()
 
 <!------------------------------------------------- 중간점 ------------------------------------------>
 
-## 인터페이스 유형별(UART,I2C) CO2값 읽기
+## 8.UART,I2C CO2값 읽기
 
 ### I2C
 
@@ -380,7 +371,7 @@ void loop()
 
 <!------------------------------------------------- 중간점 ------------------------------------------>
 
-## Digital filter
+## 9.Digital filter
 
 * 필터(Filtered)된 값과 필터 되지 않은(Unfiltered) CO2 값의 차이는 아래 그림과 같음
 
@@ -405,7 +396,7 @@ void loop()
 | A ###   | CO2 필터 값 설정  | A 16    | A 00016  |
 | a       | CO2 필터 값 확인  | a       | a 00016  |
 
-### 소스코드
+### 예제코드
 
 * CO2 필터 값 확인
 
