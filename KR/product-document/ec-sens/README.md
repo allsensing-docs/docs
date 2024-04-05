@@ -1,7 +1,6 @@
 ---
 description: >- 
   EC Sense는 독일 뮌헨에 위치하고 공기 품질 변화에서 가스 경고 시스템에 이르기까지 광범위한 응용 분야를 위한 가스 센서 및 센서 모듈을 개발, 제조 및 배포합니다.
-
 ---
 
 # EC-Sens
@@ -45,7 +44,7 @@ description: >-
 <td>Double Gas sensor</td>
 <td>센서 모듈</td>
 <td><a href="tdgm10.md">tdgm10.md</a>
-</td><td><a href="image/tdgm10.webp">ttdgm10.webp</a></td>
+</td><td><a href="image/dgm10.webp">tdgm10.webp</a></td>
 <td></td>
 <td><a href="tdgm10.md">tdgm10.md</a></td></tr>
 
