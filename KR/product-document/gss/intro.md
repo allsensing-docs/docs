@@ -27,7 +27,7 @@ GSS는 광범위한 고체 NDIR CO₂ 가스 센서를 설계, 개발 및 제조
 [cozirlp3.md](cozirlp3.md)
 {% endcontent-ref %}
 
-{% content-ref url="cozir-blink.md" %}
+{% content-ref url="cozirblink.md" %}
 [cozirblink.md](cozirblink.md)
 {% endcontent-ref %}
 
