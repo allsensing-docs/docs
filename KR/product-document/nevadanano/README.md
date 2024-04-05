@@ -15,8 +15,8 @@ description: NevadaNano 제품에 대하여  사용 방법, 경험, 지식, 문�
 <td><a href="nv0.md">nv0.md</a></td></tr>
 
 <tr><td><strong>디바이스 연결 방법</strong></td>
-<td>Nevadanano</td>
 <td>아두이노 연동</td>
+<td></td>
 <td><a href="nv1.md">nv1.md</a></td>
 <td></td>
 <td></td>
