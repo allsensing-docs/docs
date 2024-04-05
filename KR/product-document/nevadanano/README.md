@@ -16,22 +16,22 @@ description: NevadaNano 제품에 대하여  사용 방법, 경험, 지식, 문�
 
 <tr><td><strong>디바이스 연결 방법</strong></td>
 <td>Nevadanano</td>
-<td>Arduino uno</td>
+<td>아두이노 연동</td>
 <td><a href="nv1.md">nv1.md</a></td>
 <td></td>
 <td></td>
 <td><a href="nv1.md">nv1.md</a></td></tr>
 
 <tr><td><strong>통신 프로토콜</strong></td>
-<td>IoT 연동</td>
-<td>ESP32 Dev.</td>
+<td>상세 설명</td>
+<td></td>
 <td><a href="nv2.md">nv2.md</a></td>
 <td></td>
 <td></td>
 <td><a href="nv2.md">nv2.md</a></td></tr>
 
 <tr><td><strong>Version 변경사항</strong></td>
-<td>가스 센서 연동</td>
+<td>3.0, 4.0, 5.0 </td>
 <td>디지털, 아날로그</td>
 <td><a href="nv3.md">nv3.md</a></td>
 <td></td>
