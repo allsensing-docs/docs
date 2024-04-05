@@ -19,42 +19,42 @@ description: GSS CO2센서 제품에 대하여  사용 방법, 경험, 지식, �
 <tr><td><strong>CozIR-LP2</strong></td>
 <td>디바이스 연결</td>
 <td>통신프로토콜</td>
-<td><a href="agsm.md">agsm.md</a></td>
+<td><a href="cozirlp2.md">cozirlp2.md</a></td>
 <td><a href="image/lp2.webp">logo.webp</a></td>
 <td></td>
-<td><a href="agsm.md">agsm.md</a></td></tr>
+<td><a href="cozirlp2.md">cozirlp2.md</a></td></tr>
 
 <tr><td><strong>CozIR-LP3</strong></td>
 <<td>디바이스 연결</td>
 <td>통신프로토콜</td>
-<td><a href="arduino.md">arduino.md</a></td>
+<td><a href="cozirlp3.md">cozirlp3.md</a></td>
 <td><a href="image/lp.webp">logo.webp</a></td>
 <td></td>
-<td><a href="arduino.md">arduino.md</a></td></tr>
+<td><a href="cozirlp3.md">cozirlp3.md</a></td></tr>
 
 <tr><td><strong>CozIR-Blink</strong></td>
 <td>디바이스 연결</td>
 <td>통신프로토콜</td>
-<td><a href="iot-esp32.md">iot-esp32.md</a></td>
+<td><a href="cozirblink.md">cozirblink.md</a></td>
 <td><a href="image/bl.webp">logo.webp</a></td>
 <td></td>
-<td><a href="iot-esp32.md">iot-esp32.md</a></td></tr>
+<td><a href="cozirblink.md">cozirblink.md</a></td></tr>
 
 <tr><td><strong>ExplorIR</strong></td>
 <td>디바이스 연결</td>
 <td>통신프로토콜</td>
-<td><a href="allsensingmodule.md">allsensingmodule.md</a></td>
+<td><a href="explorir.md">explorir.md</a></td>
 <td><a href="image/ex.webp">logo.webp</a></td>
 <td></td>
-<td><a href="allsensingmodule.md">allsensingmodule.md</a></td></tr>
+<td><a href="explorir.md">explorir.md</a></td></tr>
 
 <tr><td><strong>SprintIR 6S</strong></td>
 <td>디바이스 연결</td>
 <td>통신프로토콜</td>
-<td><a href="eth01dv.md">eth01dv.md</a></td>
+<td><a href="sprintir.md">sprintir.md</a></td>
 <td><a href="image/sp6s.webp">logo.webp</a></td>
 <td></td>
-<td><a href="eth01dv.md">eth01dv.md</a></td></tr>
+<td><a href="sprintir.md">sprintir.md</a></td></tr>
 
 
 
