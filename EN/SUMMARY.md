@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Allsensing Documents](README.md)
+* [Welcome](README.md)
 
 ## Product
 
