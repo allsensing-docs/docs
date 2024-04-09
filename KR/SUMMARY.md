@@ -51,6 +51,7 @@
   * [TB600B(C),TB200B](product-document/ec-sens/tb600.md)
   * [TB420](product-document/ec-sens/tb420.md)
   * [DGM10](product-document/ec-sens/tdgm10.md)
+  * [DS4D](product-document/ec-sens/ds4.md)
 * [SST](product-document/SST/README.md)
 * [Temp\&Humi](product-document/temp\_humi/README.md)
   * [ETH-01DV](product-document/temp\_humi/eth\_01dv/README.md)
