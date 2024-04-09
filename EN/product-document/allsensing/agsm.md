@@ -1,8 +1,6 @@
 ---
 description: >-
-  The Allsensing Gas Sensor Module provides an easy way to add gas detectors to
-  the Internet of Things. It can be easily integrated and applied to small,
-  lightweight, high-performance, low-power wireles
+  The Allsensing Gas Sensor Module provides an easy way to add gas detectors to the Internet of Things.
 ---
 
 # AGSM user manual

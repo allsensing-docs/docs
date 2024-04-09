@@ -1,8 +1,6 @@
 ---
 description: >-
-  AGSM is a sensor module that can be used with Arduino. It can be used with an
-  Arduino UNO board to monitor sensor values. You can measure and analyze
-  various environmental information through the sens
+  AGSM is a sensor module that can be used with Arduino.
 ---
 
 # AGSM Arduino Application

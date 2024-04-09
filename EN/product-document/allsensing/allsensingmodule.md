@@ -1,8 +1,6 @@
 ---
 description: >-
-  You can easily monitor sensor values using the gas sensor module available
-  from Allsensing, which allows for the connection of both digital and analog
-  gas sensors they sell. Through the sensor connect
+  You can easily monitor sensor values using the gas sensor module available from Allsensing
 ---
 
 # Gas Sensor Module
