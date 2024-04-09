@@ -4,7 +4,6 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 
 # CozIR-LP2
 
-![](../../.gitbook/assets/cozir\_blink\_main\_pic.jpg)
 
 ## 1.특징
 
@@ -27,6 +26,8 @@ description: GSS CO2 Sensor CozIR-LP2 제품의 사용 방법, 통신 프로토�
 * 항공우주
 
 ## 3.사양
+
+![](../../.gitbook/assets/cozir\_blink\_main\_pic.jpg)
 
 | 항목 | 내용 |
 |------|------|

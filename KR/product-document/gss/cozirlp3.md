@@ -1,10 +1,8 @@
 ---
-description: LOW Power CO2 Sensor
+description: LOW Power CO2 Sensor의 사용법 및 예제 코드를 설명.
 ---
 
 # CozIR-LP3
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQCE5cN34KWHXj4MJcrQj%2Fuploads%2FY4GHUlyXINOiUbi1NkPR%2Fcozir_lp2.jpg?alt=media&#x26;token=28110542-638e-488a-b254-d595cd1a2b76" alt=""><figcaption></figcaption></figure>
 
 ## 1. Cozir-LP2에서 추가된 기능
 
@@ -38,7 +36,7 @@ description: LOW Power CO2 Sensor
 
 \- J ###\r\n에서 ### 은 Bit \[7:0] 까지 설정한 값이 들어감
 
-<figure><img src="../../.gitbook/assets/COZIR_LP3_PWM_설정2.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/COZIR_LP3_PWM_설정2.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 * 센서 자기 진단 테스트
 
@@ -87,10 +85,9 @@ Response: ### = 170 - Sensor error
 | 센서 수명 | 15년 |
 | 헤더 핀 크기 | 2.54mm |
 
-
 ## 5. 제품 크기 및 핀 특성
 
-<figure><img src="../../.gitbook/assets/cozir_lp3_pin_connection.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozir_lp3_pin_connection.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 | PIN | NAME | Function |
 | --- | --- | --- |
@@ -104,26 +101,21 @@ Response: ### = 170 - Sensor error
 | 11 | Tx_out | Digital Input |
 | 12 | Rx_ In | Digital Output |
 
-
-
-<figure><img src="../../.gitbook/assets/cozir_lp3_size.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozir_lp3_size.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 6. 디바이스 연결 방법
 
-
 ### Connection DIAGRAM (UART)
 
-<figure><img src="../../../.gitbook/assets/connetion_uart_diagram.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/connetion_uart_diagram.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Connection DIAGRAM (I2C)
 
-<figure><img src="../../../.gitbook/assets/CozIR-Blink_connetion_diagram_i2c.PNG" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/CozIR-Blink_connetion_diagram_i2c.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Arduino Uno Uart" %}
-<figure><img src="../../../.gitbook/assets/Cozir_series_uart_connection_with_arduino_uno.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cozir_series_uart_connection_with_arduino_uno.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 |  항목 | Arduino Uno | Cozir-LP3 |
 | :-: | :---------: | :-------: |
@@ -134,13 +126,10 @@ Response: ### = 170 - Sensor error
 {% endtab %}
 
 {% tab title="Arduino Uno  I2C" %}
-<figure><img src="../../../.gitbook/assets/Cozir_series_i2c_connection_with_arduino.PNG" alt=""><figcaption></figcaption></figure>
-
-<table><thead><tr><th width="140" align="center">항목</th><th align="center">Arduino Uno</th><th align="center">Cozir-LP3</th></tr></thead><tbody><tr><td align="center">VCC</td><td align="center">5V or 3.3V</td><td align="center">VCC</td></tr><tr><td align="center">GND</td><td align="center">GND</td><td align="center">GND</td></tr><tr><td align="center">TX</td><td align="center">A5</td><td align="center">SCL</td></tr><tr><td align="center">RX</td><td align="center">A4</td><td align="center">SDA</td></tr></tbody></table>
-{% endtab %}
+<figure><img src="../../.gitbook/assets/Cozir_series_i2c_connection_with_arduino.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 {% tab title="Arduino MKR Uart" %}
-<figure><img src="../../../.gitbook/assets/cozir_lp2_arduino_uno_2.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozir_lp2_arduino_uno_2.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 |  항목 | Arduino MKR | Cozir-LP3 |
 | :-: | :---------: | :-------: |
@@ -151,13 +140,10 @@ Response: ### = 170 - Sensor error
 {% endtab %}
 
 {% tab title="Arduino MKR I2C" %}
-<figure><img src="../../../.gitbook/assets/CozIR-LP2_with_Arduino_MKR_i2c.png" alt=""><figcaption></figcaption></figure>
-
-<table><thead><tr><th width="140" align="center">항목</th><th align="center">Arduino MKR</th><th align="center">Cozir-LP3</th></tr></thead><tbody><tr><td align="center">VCC</td><td align="center">5V or 3.3V</td><td align="center">VCC</td></tr><tr><td align="center">GND</td><td align="center">GND</td><td align="center">GND</td></tr><tr><td align="center">TX</td><td align="center">D11</td><td align="center">SCL</td></tr><tr><td align="center">RX</td><td align="center">D12</td><td align="center">SDA</td></tr></tbody></table>
-{% endtab %}
+<figure><img src="../../.gitbook/assets/CozIR-LP2_with_Arduino_MKR_i2c.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% tab title="ESP32 Uart" %}
-<figure><img src="../../../.gitbook/assets/CozIR-LP2_with_ESP32.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CozIR-LP2_with_ESP32.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 |  항목 |    ESP32   | Cozir-LP3 |
 | :-: | :--------: | :-------: |
@@ -168,13 +154,10 @@ Response: ### = 170 - Sensor error
 {% endtab %}
 
 {% tab title="Esp32 I2C" %}
-<figure><img src="../../../.gitbook/assets/cozirlp2_ESP32_I2C.png" alt=""><figcaption></figcaption></figure>
-
-<table><thead><tr><th width="140" align="center">항목</th><th align="center">ESP32</th><th align="center">Cozir-LP3</th></tr></thead><tbody><tr><td align="center">VCC</td><td align="center">5V or 3.3V</td><td align="center">VCC</td></tr><tr><td align="center">GND</td><td align="center">GND</td><td align="center">GND</td></tr><tr><td align="center">TX</td><td align="center">13</td><td align="center">SCL</td></tr><tr><td align="center">RX</td><td align="center">12</td><td align="center">SDA</td></tr></tbody></table>
-{% endtab %}
+<figure><img src="../../.gitbook/assets/cozirlp2_ESP32_I2C.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% tab title="ESP8266 Uart" %}
-<figure><img src="../../../.gitbook/assets/cozir_lp2_with_ESP8266.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozir_lp2_with_ESP8266.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 |  항목 | ESP8266 | Cozir-LP3 |
 | :-: | :-----: | :-------: |
@@ -185,21 +168,13 @@ Response: ### = 170 - Sensor error
 {% endtab %}
 
 {% tab title="ESP8266 I2C" %}
-<figure><img src="../../../.gitbook/assets/CozIR-LP2_with_ESP8266_I2C.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CozIR-LP2_with_ESP8266_I2C.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="140" align="center">항목</th><th align="center">ESP8266</th><th align="center">Cozir-LP3</th></tr></thead><tbody><tr><td align="center">VCC</td><td align="center">5V or 3.3V</td><td align="center">VCC</td></tr><tr><td align="center">GND</td><td align="center">GND</td><td align="center">GND</td></tr><tr><td align="center">TX</td><td align="center">D5</td><td align="center">SCL</td></tr><tr><td align="center">RX</td><td align="center">D6</td><td align="center">SDA</td></tr></tbody></table>
-{% endtab %}
-{% endtabs %}
-
-
-
-<figure><img src="../../../.gitbook/assets/cozir_lp3_i2c_실제사진.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/cozir_lp3_i2c_실제사진.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 7. 통신 프로토콜
 
-+ 통신 환경
+* 통신 환경
 
 |       PARAMETER       |  TYP |  UNIT  |
 | :-------------------: | :--: | :----: |
@@ -209,7 +184,7 @@ Response: ### = 170 - Sensor error
 |       Stop Bits       |   1  |        |
 | Hardware Flow Control | None |        |
 
-+ UART Command
+* UART Command
 
 | Command                          | Description                                 | Response                                    |
 | -------------------------------- | ------------------------------------------- | ------------------------------------------- |
@@ -229,8 +204,6 @@ Response: ### = 170 - Sensor error
 | s\r                              | 고도 설정 값 확인                                  | s 08192\r                                   |
 | M ###\r                          | 측정 데이터 문자열로 전송                              | M 6\r                                       |
 
-
-
 ### 모드 설정 및 CO2 값 읽기
 
 > 모드
@@ -247,7 +220,11 @@ Response: ### = 170 - Sensor error
 
 \- 센서 값 요청 시에만 응답, 센서 값 요청하지 않을 때에는 백그라운드에서 계속 측정을 수행함
 
-<table><thead><tr><th align="center">Mode</th><th width="160" align="center">Command</th><th align="center">Description</th><th align="center">Response</th></tr></thead><tbody><tr><td align="center">Command</td><td align="center">K 0\r</td><td align="center">명령어 기다리는 상태</td><td align="center">K 00000\r</td></tr><tr><td align="center">Streaming</td><td align="center">K 1\r</td><td align="center">연속적으로 값 측정</td><td align="center">K 00001\r</td></tr><tr><td align="center">Polling</td><td align="center">K 2\r</td><td align="center">센서 값 요청 시 에만 응답</td><td align="center">K 00002\r</td></tr></tbody></table>
+| Mode | Command | Description | Response |
+| --- | --- | --- | --- |
+| Command | K 0\r | 명령어 기다리는 상태 | K 00000\r |
+| Streaming | K 1\r | 연속적으로 값 측정 | K 00001\r |
+| Polling | K 2\r | 센서 값 요청 시 에만 응답 | K 00002\r |
 
 #### 소스 코드
 
@@ -296,7 +273,7 @@ void loop()
 
 ### 시리얼 모니터
 
-<figure><img src="../../../../.gitbook/assets/cozirlp2_serial_streamiing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_serial_streamiing.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Polling mode에서 CO2값 읽기
 
@@ -334,11 +311,11 @@ void loop()
 
 * 시리얼 모니터에 'R' 입력 후 엔터
 
-<figure><img src="../../../../.gitbook/assets/cozirlp2_serial_r.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_serial_r.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 응답
 
-<figure><img src="../../../../.gitbook/assets/cozirlp2_polling.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_polling.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 인터페이스 유형별(UART,I2C) CO2값 읽기
 
@@ -375,8 +352,6 @@ int CO2_value = 0;
   delay(1000);
 }
 ```
-
-
 
 * UART
 
@@ -421,26 +396,21 @@ void loop()
 }
 ```
 
-
-
 **Serial Monitor**
 
 * I2C
 
-<figure><img src="../../../../.gitbook/assets/i2c_Serial_monitir_co2_read.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/i2c_Serial_monitir_co2_read.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 * UART
 
-
-
-<figure><img src="../../../../.gitbook/assets/co2_lp2_Serial_monitor_pic_size.PNG" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/co2_lp2_Serial_monitor_pic_size.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Digital filter
 
 * 필터(Filtered)된 값과 필터 되지 않은(Unfiltered) CO2 값의 차이는 아래 그림과 같음
 
-<figure><img src="../../../../.gitbook/assets/cozirlp2_filter_unfilter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_filter_unfilter.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 필터된(Filtered) CO2 값은 노이즈를 제거하여 더 정확한 값을 제공함
 
@@ -449,14 +419,17 @@ Digital filter 설정
 * 필터 설정 범위: 1\~255( 1= Unfiltered)
 * 필터의 설정 값이 증가하면 측정 출력 응답 시간이 늘어남
 
-<figure><img src="../../../../.gitbook/assets/cozirlp2_filter_response_time.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_filter_response_time.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * A=필터 설정 값
 * A = 32 가 A = 16(default) 보다 T90에 도달하는 시간이 늘어남
 
 Digital filter Command
 
-<table><thead><tr><th width="159" align="center">Command</th><th width="205" align="center">Description</th><th width="148" align="center">Example</th><th align="center">Response</th></tr></thead><tbody><tr><td align="center">A ###\r</td><td align="center">CO2 필터 값 설정</td><td align="center">A 16\r</td><td align="center">A 00016\r</td></tr><tr><td align="center">a\r</td><td align="center">CO2 필터 값 확인</td><td align="center">a\r</td><td align="center">a 00016\r</td></tr></tbody></table>
+| Command | Description | Example | Response |
+| --- | --- | --- | --- |
+| A ###\r | CO2 필터 값 설정 | A 16\r | A 00016\r |
+| a\r | CO2 필터 값 확인 | a\r | a 00016\r |
 
 ## 소스코드
 
@@ -504,7 +477,7 @@ void loop()
 
 * 시리얼 모니터
 
-<figure><img src="../../../../.gitbook/assets/cozirlp2_filter_confirm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_filter_confirm.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * CO2 필터 값 설정
 
@@ -550,4 +523,4 @@ void loop()
 
 * 시리얼 모니터
 
-<figure><img src="../../../../.gitbook/assets/cozirlp2_serial_filter_change.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cozirlp2_serial_filter_change.png" alt="" width="563"><figcaption></figcaption></figure>
