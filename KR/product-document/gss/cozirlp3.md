@@ -219,7 +219,7 @@ void loop()
 }
 ```
 
-### 시리얼 모니터
++시리얼 모니터
 
 <figure><img src="../../.gitbook/assets/cozirlp2_serial_streamiing.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -255,7 +255,7 @@ void loop()
 }
 ```
 
-### 시리얼 모니터
++ 시리얼 모니터
 
 * 시리얼 모니터에 'R' 입력 후 엔터
 
