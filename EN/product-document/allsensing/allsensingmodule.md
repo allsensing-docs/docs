@@ -1,26 +1,22 @@
 ---
 description: >-
-  You can easily monitor sensor values using the gas sensor module available from Allsensing, which allows for the connection of both digital and analog gas sensors they sell. Through the sensor connection method and example code, you can measure and analyze various environmental information.
+  You can easily monitor sensor values using the gas sensor module available
+  from Allsensing, which allows for the connection of both digital and analog
+  gas sensors they sell. Through the sensor connect
 ---
 
 # Gas Sensor Module
-
-<!-- 메인 이미지 
-<figure><img src="p4_image/allsensingModule_title.webp" alt="Allsensing Sensor Module" width="563"><figcaption><p>Allsensing Sensor Module</p></figcaption></figure>
--->
 
 ## Module Specifications
 
 * Specifications
 
-| Item | Specification |
-| --- | --- |
-| Input Power | USB C Connector: +5.0VDC<br>Backup Battery: 3.7V Lithium Polymer (supports charging via USB power) |
-| Display | LCD Display |
-| Sensor Module | Varies according to the sensor manufacturer's model (inquiries requested) |
-| Data Storage | SD Card (16GB recommended), up to 32GB |
-
-
+| Item          | Specification                                                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| Input Power   | <p>USB C Connector: +5.0VDC<br>Backup Battery: 3.7V Lithium Polymer (supports charging via USB power)</p> |
+| Display       | LCD Display                                                                                               |
+| Sensor Module | Varies according to the sensor manufacturer's model (inquiries requested)                                 |
+| Data Storage  | SD Card (16GB recommended), up to 32GB                                                                    |
 
 * Product name
 
