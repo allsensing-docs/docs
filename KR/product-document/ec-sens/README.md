@@ -57,5 +57,14 @@ description: >-
 <td></td>
 <td><a href="ds4.md">ds4.md</a></td></tr>
 
+<tr>
+<td><strong>EC Sense 전기화학식 가스센서 구동회로</strong></td>
+<td>Circuit</td>
+<td></td>
+<td><a href="ecsense1.md">ecsense1.md</a></td>
+<td><a href="p1_image/title.webp">title.webp</a></td>
+<td></td>
+<td><a href="ecsense1.md">ecsense1.md</a></td>
+</tr>
 
 </tbody></table>
