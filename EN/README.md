@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Allsensing technical documents provide a space for users to exercise their knowledge and creativity. Here, you can find comprehensive documents that offer basic information and specifications about the products.
+  The Allsensing technical documents provide basic information and application examples for their products.
 ---
 
 # Welcome
