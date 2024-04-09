@@ -3,9 +3,9 @@ description: >-
 AGSM is a sensor module that can be used with the ESP32 module. It can be used with an ESP32 board to monitor sensor values in conjunction with IoT platforms. Various environmental information can be measured and analyzed through the sensor connection method and example code.
 ---
 
-# AGSM IoT 활용(ESP32)
+# AGSM IoT application
 
-<!-- 메인 이미지 
+<!-- image 
 <figure><img src="p3_image/card_asgm_esp32.webp" alt="agsm esp32" width="563"><figcaption><p>AGSM ESP32</p></figcaption></figure>
 -->
 
@@ -19,11 +19,9 @@ AGSM is a sensor module that can be used with the ESP32 module. It can be used w
 
 + There are several ways to send sensor readings to ThingSpeak. This project uses the [thingspeak-arduino](https://github.com/mathworks/thingspeak-arduino) library. You can see library examples on the GitHub page.
 
-<br>
-<br>
 
 > [hackster.io detail document](https://www.hackster.io/allsensingdoc/agsm-co-gas-with-esp32-and-thingspeak-1b6d8b)
-<br>
+
 
 ## Item
 
