@@ -1,6 +1,6 @@
 ---
 description: >-
-AGSM is a sensor module that can be used with the ESP32 module. It can be used with an ESP32 board to monitor sensor values in conjunction with IoT platforms. Various environmental information can be measured and analyzed through the sensor connection method and example code.
+  AGSM is a sensor module that can be used with the ESP32 module. It can be used with an ESP32 board to monitor sensor values in conjunction with IoT platforms. Various environmental information can be measured and analyzed through the sensor connection method and example code.
 ---
 
 # AGSM IoT application
