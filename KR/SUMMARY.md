@@ -81,4 +81,4 @@
 ## 참고문서 <a href="#sourcedocs" id="sourcedocs"></a>
 
 * [전기화학식 가스센서](sourcedocs/electrochemical/README.md)
-  * [전기 화학식 가스 센서 Q\&A](sourcedocs/electrochemical/q-and-a.md)
+  * [전기 화학식 가스 센서 Q\&A](sourcedocs/electrochemical/qanda.md)
