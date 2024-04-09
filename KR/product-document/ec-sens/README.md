@@ -15,6 +15,16 @@ description: >-
 <td></td>
 <td><a href="tb01.md">tb01.md</a></td></tr>
 
+<tr>
+<td><strong>EC Sense 전기화학식 가스센서 구동회로</strong></td>
+<td>Circuit</td>
+<td></td>
+<td><a href="ecsense1.md">ecsense1.md</a></td>
+<td><a href="p1_image/title.webp">title.webp</a></td>
+<td></td>
+<td><a href="ecsense1.md">ecsense1.md</a></td>
+</tr>
+
 <tr><td><strong>가스 센서 모듈</strong></td>
 <td>센서 모듈 종류</td>
 <td>구분 및 특징</td>
@@ -57,14 +67,6 @@ description: >-
 <td></td>
 <td><a href="ds4.md">ds4.md</a></td></tr>
 
-<tr>
-<td><strong>EC Sense 전기화학식 가스센서 구동회로</strong></td>
-<td>Circuit</td>
-<td></td>
-<td><a href="ecsense1.md">ecsense1.md</a></td>
-<td><a href="p1_image/title.webp">title.webp</a></td>
-<td></td>
-<td><a href="ecsense1.md">ecsense1.md</a></td>
-</tr>
+
 
 </tbody></table>
