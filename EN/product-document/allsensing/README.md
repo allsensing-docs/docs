@@ -16,21 +16,23 @@ description: >-
 <td><a href="agsm.md">agsm.md</a></td></tr>
 
 <tr><td><strong>AGMS+Arduino Application</strong></td>
-<td>아두이노 코드</td>
-<td>Arduino uno</td>
+<td>Arduino code</td>
+<td></td>
 <td><a href="arduino.md">arduino.md</a></td>
 <td><a href="p2_image/card_asgm_arduino.webp">card_asgm_arduino.webp</a></td>
 <td></td>
 <td><a href="arduino.md">arduino.md</a></td></tr>
 
-<tr><td><strong>AGSM+ESP32 Application</strong></td><td>IoT Application</td>
+<tr><td><strong>AGSM+ESP32 Application</strong></td>
+<td>IoT Application</td>
 <td>ESP32 Dev.</td>
 <td><a href="iot-esp32.md">iot-esp32.md</a>
 </td><td><a href="p3_image/card_asgm_esp32.webp">card_asgm_esp32.webp</a></td>
 <td></td>
 <td><a href="iot-esp32.md">iot-esp32.md</a></td></tr>
 
-<tr><td><strong>Allsensing Sensor Module</strong></td><td>Allsensing Sensor Module</td>
+<tr><td><strong>Allsensing Sensor Module</strong></td>
+<td>Gas Sensor</td>
 <td>Digital, analog</td>
 <td><a href="allsensingmodule.md">allsensingmodule.md</a>
 </td><td><a href="p4_image/allsensingModule_title.webp">allsensingModule_title.webp</a></td>
