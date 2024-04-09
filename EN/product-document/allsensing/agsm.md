@@ -19,8 +19,8 @@ The Allsensing Gas Sensor Module (AGSM) provides an easy way to add gas detector
   * If the user has calibration gas and a test environment, Zero calibration and Span Calibration can be performed using communication commands.
   * It is recommended to calibrate the gas sensor (Span Calibration) every six months.
   *   The AGSM product was calibrated using a small chamber of 400mL.
-
-      <figure><img src="p1_image/agsm_all.webp" alt="agsm module all" width="563"><figcaption><p>AGSM Module</p></figcaption></figure>
+  
+ <figure><img src="p1_image/agsm_all.webp" alt="agsm module all" width="563"><figcaption><p>AGSM Module</p></figcaption></figure>
 
 ## Specifications and Connection Methods
 
