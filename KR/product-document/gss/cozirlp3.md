@@ -113,64 +113,12 @@ Response: ### = 170 - Sensor error
 
 <figure><img src="../../.gitbook/assets/CozIR-Blink_connetion_diagram_i2c.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-{% tabs %}
-{% tab title="Arduino Uno Uart" %}
-<figure><img src="../../.gitbook/assets/Cozir_series_uart_connection_with_arduino_uno.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-|  항목 | Arduino Uno | Cozir-LP3 |
-| :-: | :---------: | :-------: |
-| VCC |  5V or 3.3V |    VCC    |
-| GND |     GND     |    GND    |
-|  TX |      13     |     RX    |
-|  RX |      12     |     TX    |
-{% endtab %}
+<figure><img src="../../.gitbook/assets/Cozir_series_uart_connection_with_arduino_uno.PNG" alt="" width="563"><figcaption>Arduino Uno UART</figcaption></figure>
 
-{% tab title="Arduino Uno  I2C" %}
-<figure><img src="../../.gitbook/assets/Cozir_series_i2c_connection_with_arduino.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-{% tab title="Arduino MKR Uart" %}
-<figure><img src="../../.gitbook/assets/cozir_lp2_arduino_uno_2.PNG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cozir_series_i2c_connection_with_arduino.PNG" alt="" width="563"><figcaption>Arduino Uno I2C</figcaption></figure>
 
-|  항목 | Arduino MKR | Cozir-LP3 |
-| :-: | :---------: | :-------: |
-| VCC |  5V or 3.3V |    VCC    |
-| GND |     GND     |    GND    |
-|  TX |      13     |     RX    |
-|  RX |      12     |     TX    |
-{% endtab %}
-
-{% tab title="Arduino MKR I2C" %}
-<figure><img src="../../.gitbook/assets/CozIR-LP2_with_Arduino_MKR_i2c.png" alt="" width="563"><figcaption></figcaption></figure>
-
-{% tab title="ESP32 Uart" %}
-<figure><img src="../../.gitbook/assets/CozIR-LP2_with_ESP32.PNG" alt="" width="563"><figcaption></figcaption></figure>
-
-|  항목 |    ESP32   | Cozir-LP3 |
-| :-: | :--------: | :-------: |
-| VCC | 5V or 3.3V |    VCC    |
-| GND |     GND    |    GND    |
-|  TX |      5     |     RX    |
-|  RX |      6     |     TX    |
-{% endtab %}
-
-{% tab title="Esp32 I2C" %}
-<figure><img src="../../.gitbook/assets/cozirlp2_ESP32_I2C.png" alt="" width="563"><figcaption></figcaption></figure>
-
-{% tab title="ESP8266 Uart" %}
-<figure><img src="../../.gitbook/assets/cozir_lp2_with_ESP8266.PNG" alt="" width="563"><figcaption></figcaption></figure>
-
-|  항목 | ESP8266 | Cozir-LP3 |
-| :-: | :-----: | :-------: |
-| VCC |   3.3V  |    VCC    |
-| GND |   GND   |    GND    |
-|  TX |    15   |     RX    |
-|  RX |    13   |     TX    |
-{% endtab %}
-
-{% tab title="ESP8266 I2C" %}
-<figure><img src="../../.gitbook/assets/CozIR-LP2_with_ESP8266_I2C.png" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/cozir_lp3_i2c_실제사진.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 7. 통신 프로토콜
 
