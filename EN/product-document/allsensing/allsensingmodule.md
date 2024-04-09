@@ -22,17 +22,19 @@ description: >-
 
 ## Application methods
 
-> ⚠️ 확인 사항
->
-> * 장착되는 가스 센서 모듈의 사양에 따라 온도, 습도는 표시 및 저장 되지 않을 수 있습니다.
-> * 가스명은 제품명으로 표시 될수 있습니다.
-> * SD 카드 데이터 저장 내용에 시간 값은 표시되지 않으며 1초 카운터 값으로 표시됩니다.
-> * 백업 배터리는 옵션 사항입니다.
+> ⚠️ Confirmation Items
+> * Depending on the specifications of the gas sensor module installed, temperature and humidity may not be displayed or stored.
+> * The gas name may be displayed as the product name.
+> * The time value is not displayed in the SD card data storage content; it is displayed as a 1-second counter value.
+> * The backup battery is an optional item.
 
-* 조립 순서
-  * 가스센서 모듈을 가스 센서 모듈 커넥터에 연결
-  * Micro SD Card 소켓에 Micro SD Cad 장착(16gb 권장(32GB까지 사용 가능), FAT32 포맷 지원)
-    * 가스 센서 커넥터 연결 후 USB-C 커넥터 및 백업 배터리를 연결 하여 장치 구동
-* 화면 구성
+<br>
+
+* Assembly
+  * Connect the gas sensor module to the gas sensor module connector.
+  * Mount the Micro SD Card in the Micro SD Card socket (16GB recommended, up to 32GB usable, FAT32 format supported).
+  * After connecting the gas sensor connector, connect the USB-C connector and backup battery to operate the device.
+
+* Screen Configuration
 
 <figure><img src="p4_image/display.webp" alt="Allsensing Sensor Module" width="563"><figcaption><p>Allsensing Sensor Module</p></figcaption></figure>
