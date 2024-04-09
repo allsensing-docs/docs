@@ -1,27 +1,21 @@
 ---
 description: >-
-  AGSM is a sensor module that can be used with the ESP32 module. It can be used with an ESP32 board to monitor sensor values in conjunction with IoT platforms. Various environmental information can be measured and analyzed through the sensor connection method and example code.
+  AGSM is a sensor module that can be used with the ESP32 module. It can be used
+  with an ESP32 board to monitor sensor values in conjunction with IoT
+  platforms. Various environmental information can be
 ---
 
 # AGSM IoT application
 
-<!-- image 
-<figure><img src="p3_image/card_asgm_esp32.webp" alt="agsm esp32" width="563"><figcaption><p>AGSM ESP32</p></figcaption></figure>
--->
-
 ## Description
 
-+ In this project, we discuss how to send sensor readings from an ESP32 to ThingSpeak.
-+ While the project uses the AGSM sensor, the example can be easily modified to use other sensors.
-
-+ Using ThingSpeak allows you to post sensor readings to a website and display them on timestamped charts.
-+ You can also visualize graphs using MATLAB visualization and access readings from anywhere in the world.
-
-+ There are several ways to send sensor readings to ThingSpeak. This project uses the [thingspeak-arduino](https://github.com/mathworks/thingspeak-arduino) library. You can see library examples on the GitHub page.
-
+* In this project, we discuss how to send sensor readings from an ESP32 to ThingSpeak.
+* While the project uses the AGSM sensor, the example can be easily modified to use other sensors.
+* Using ThingSpeak allows you to post sensor readings to a website and display them on timestamped charts.
+* You can also visualize graphs using MATLAB visualization and access readings from anywhere in the world.
+* There are several ways to send sensor readings to ThingSpeak. This project uses the [thingspeak-arduino](https://github.com/mathworks/thingspeak-arduino) library. You can see library examples on the GitHub page.
 
 > [hackster.io detail document](https://www.hackster.io/allsensingdoc/agsm-co-gas-with-esp32-and-thingspeak-1b6d8b)
-
 
 ## Item
 
