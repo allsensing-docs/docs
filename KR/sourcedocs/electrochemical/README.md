@@ -1,5 +1,5 @@
 ---
-description: 전지화학식 가스 센서 참고 문서들을 공유하고있습니다.
+description: 전기화학식 가스 센서(Electrochemical gas sensors) 참고 문서들을 공유하고있습니다.
 ---
 
 # 전기화학식 가스센서

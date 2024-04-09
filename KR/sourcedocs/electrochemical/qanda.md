@@ -1,5 +1,5 @@
 ---
-description: 전기 화학식 가스 센서 사용 방법에 대한 Questions & Answers
+description: 전기 화학식 가스 센서(Electrochemical gas sensors) 사용 방법에 대한 Questions & Answers
 ---
 
 # 전기 화학식 가스 센서 Q\&A
